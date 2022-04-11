@@ -1,3 +1,5 @@
+![image (1)](https://user-images.githubusercontent.com/13386106/162654705-78b61452-24fa-4814-bbb0-34b0a6bd5c09.png)
+
 # 📝Um pouco sobre mim
 
 ## 👨 Nome:
