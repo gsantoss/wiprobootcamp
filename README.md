@@ -1,13 +1,7 @@
-<<<<<<< Updated upstream
-# Nome: Gustavo José Oliveria Santos
-- Prato Favorito:
-- - Camarão
-- :mortar_board:
-=======
 # 📝Um pouco sobre mim
 
 ## 👨 Nome:
-*Gustavo José Oliveira Santos
+* Gustavo José Oliveira Santos
 
 ## 🎓 Formação Acadêmica:
 * 📚:Aluno mestrando do curso de Sistemas de Computação na UFC - Universidade Federal do Ceará
